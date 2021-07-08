@@ -7,10 +7,28 @@
       "reminder": true
     },
     {
-      "id": 1,
-      "text": "Doctors Appointment",
+      "id": 2,
+      "text": "Ngoding",
       "day": "Feb 5th at 2:30pm",
       "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Belanja",
+      "day": "Feb 5th at 4:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Test",
+      "day": "Monday, 3.10pm",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Test 1",
+      "day": "Sunday 1",
+      "reminder": true,
+      "id": 5
     }
-  ]  
+  ]
 }
